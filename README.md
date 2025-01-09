@@ -1,6 +1,4 @@
 
-## output: github_document
-
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 **NOTE: This is a toy package created for expository purposes, for the
